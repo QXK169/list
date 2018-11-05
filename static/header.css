@@ -1,0 +1,41 @@
+.header,.head_top  {
+  width: 100%;
+  height: 0.88rem;
+  display: flex;
+  align-items: center;
+}
+.header,.head_top {
+  width: 100%;
+  height: 0.88rem;
+  background-color: #5d18cd;
+  justify-content: space-around;
+  align-items: center;
+}
+.head_top {
+  background-color: #f8f8f8;
+  border-bottom: 1px solid #e5e5e5;
+  position: relative;
+}
+.header img {
+  width: 0.28rem;
+  margin-left: 0.4rem;
+}
+.header span {
+  margin-right: 0.4rem;
+  flex: 1;
+  font-size: 0.3rem;
+  color: #fff;
+  text-align: center;
+}
+.head_top img {
+  width: 0.21rem;
+  height: 0.36rem;
+  margin-left: 0.4rem;
+}
+.head_top span {
+  margin-right: 0.4rem;
+  flex: 1;
+  font-size: 0.3rem;
+  color: #333;
+  text-align: center;
+}
